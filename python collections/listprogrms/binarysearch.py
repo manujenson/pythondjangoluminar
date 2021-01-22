@@ -15,6 +15,6 @@ while(low<=upp):
         flag+=1
         break
 if flag==0:
-    print("not found")
+    print("element not found")
 else:
-    print("found")
+    print("element found")

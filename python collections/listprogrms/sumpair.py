@@ -1,7 +1,14 @@
-lst=[1,2,3,5]
+lst=[1,2,3,4,5]
 
-num=int(input("enter num to find pairs"))
-for i in range(0,len(lst)):
-    for j in range(i+1,len(lst)):
-        if(lst[i]+lst[j]==num):
-            print(lst[i],lst[j])
+low=0
+upp=len(lst)-1
+element=int(input("enter element for search"))
+while(low<=upp):
+    tot=lst[low]+lst[upp]
+    if(element==tot):
+        print(lst[low],lst[upp])
+        break
+    elif(element>tot):
+        low+=1
+    else:
+        upp-=1

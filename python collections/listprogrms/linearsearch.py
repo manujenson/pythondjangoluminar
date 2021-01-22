@@ -1,13 +1,12 @@
-lst=[2,5,6,7]
+limit=int(input("enter limit"))
 
-out=list()
-tot=sum(lst)
-
-for num in lst:
-    out.append(tot-num)
-element=int(input("enter element "))
+lst=list()
+for i in range(0,limit):
+    number=input("enter number")
+    lst.append(number)
+element=input("enter element you want to search ")
 flag=0
-cnt=0
+cnt=1
 for num in lst:
     if(element==num):
         flag+=1
@@ -16,6 +15,6 @@ for num in lst:
         pass
     cnt+=1
 if flag==0:
-    print("not found")
+    print("element not found")
 else:
-    print("found")
+    print("element found",cnt)

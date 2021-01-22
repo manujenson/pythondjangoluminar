@@ -1,5 +1,5 @@
 #list define
-# defined in[],  duplicating alowed, mutable,insertion order preserved
+# defined in[],  duplicating alowed, mutable,insertion order preserved,update
 
 
 #lst=[50,2.5,hello]
