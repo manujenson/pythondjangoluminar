@@ -1,0 +1,26 @@
+h1{
+    color: rgb(18, 135, 231);
+    position: relative;
+    top: 180px;
+    left: 20%;
+    width: 20%;
+}
+p{
+    position: relative;
+    top: 180px;
+    left: 20%;
+}
+body{
+    background-color: #E9EBEE;
+}
+
+#tb{
+    background-color: white;
+    border-style: solid;
+    border-color:grey;
+    border-width: 1px;
+    width: 30%;
+    position: relative;
+    top: 100px;
+    left: 50%; 
+}

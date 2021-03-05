@@ -1,0 +1,56 @@
+body{
+    background-image: url("phones.png");
+    height: 100%;
+}
+h1{
+    color:crimson;
+    text-align: center;
+}
+
+#nokia{
+    background-color:lavenderblush;
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+    width: 30%;
+    
+}
+#c3h{
+    color: aqua;
+    text-align: center;
+}
+
+#samsung{
+    background-color: lightpink;
+    width: 30%;
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+}
+#j7{
+    color:seagreen;
+    text-align: center;
+}
+
+
+
+.first{
+    background-color: cornflowerblue;
+    width: 30%;
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+
+}
+
+#mi{
+    text-align: center;
+    color: azure;
+
+}
+
+#ip{
+    text-align: center;
+    color: blanchedalmond;
+}
+

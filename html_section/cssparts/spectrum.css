@@ -1,0 +1,42 @@
+h1{
+    font-family: 'Playball', cursive; 
+    margin-left: 40%;
+}
+div{
+    height:550px ;
+    width:220px;  
+    margin-top: 5%; 
+    margin-left: 1%;
+    margin: auto;  
+    
+    
+  
+    
+}
+
+.red{
+    background-color: red;
+    float: left; 
+    margin-left:10%; 
+    
+   
+}
+
+.blue{
+    background-color:blue;
+    float: left;
+}
+
+.yellow{
+    background-color: yellow;
+    float: left;
+}
+
+.orange{
+    background-color: orange;
+    float: left;
+}
+.cyan{
+    background-color: cyan;
+    float: left;
+}

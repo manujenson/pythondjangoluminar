@@ -1,0 +1,44 @@
+body{
+    background-image: url("ffood.jpg");
+    height: 100%;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+
+#biriyani{
+    background-image: url("biriyani.jpg");
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+    width: 30%;
+}
+#chicken{
+    color:crimson;
+    text-align: center;
+}
+
+#fried{
+    background-image: url("fry.jpg");
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+    width: 30%;
+}
+#rice{
+    color: greenyellow;
+    text-align: center;
+}
+
+#curry{
+    background-image: url("beaf.jpg");
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+    width: 30%;
+}
+#beaf{
+    color:black;
+    text-align: center;
+}
