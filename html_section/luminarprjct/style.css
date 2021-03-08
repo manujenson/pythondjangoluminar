@@ -1,129 +1,47 @@
-.topdiv{
-    background-color: #5e068a;
-    color: white;
-    font-size: 14px;
-    
-    
-
-}
+h1{
+    position: relative;
+    left: 30px;
+    top: 3px;
+} 
 body{
-    height: 1000px;
-
+    background-color: #E6E6E6;
 }
-.navba{
-    position: sticky; 
-    background-color: white;
+.sec1{
+    background-color: rgb(149, 172, 218);
+    position: relative;
+    left:20px;
+}
+.sec{
+    position: relative;
+    top: 30px;
 }
 .imag{
     position: relative;
-    margin-left: 105px;
+    left: 130px;
+    top: 40px;
+  
 }
-ul{
-    font-size: 14px;
-    line-height: 28px;
-    font-weight: 500;
-    text-transform: uppercase;
-    position: relative;
-    margin-left: 390px;
-    padding: 47px;
-}
-.cb{
-    color: black;
-}
-
-.ca{
-    position: relative;
-    margin-top: 140px;
-
-
-}
-h2{
-    
-    color: #5e068a;
-    font-weight: 500;
-    position: relative;
-    margin-bottom: 20px;
-   
-}
-span{
-    color: #5e068a99;
-}
-p{
-    line-height: 28px;
-    font-size: 15px;
-    max-width: 565px;
-}
-
-button{
-    background-color: #5e068a;
-    color: #ffffff;
-    display: inline-block;
-    font-size: 14px;
-    position: relative;
-    padding: 16px 27px;
-    font-weight: 600;
-    margin-top: 21px;
-    border-radius: 50px;
-    border: 2px solid #5e068a;
-    
-}
-.btt{
-    position: relative;
-    top: 8px;
-   
-}
-button:hover{
-    color: #5e068a;
+.head{
     background-color: white;
-    padding: 16px 27px;
-    font-weight: 600;
-    margin-top: 21px;
-    border-radius: 50px;
-    border: 2px solid #5e068a;
-    
-}
-.par{
-    font-size: 32px;
-    color: #5e068a;
-    font-weight: 700;
-    line-height: 1.2;
-    position: relative;
-    top: 80px;
-    left: 100px; 
-
-}
-h3{
-    font-size: 20px;
-    line-height: 25px;
-    font-weight: 700;
-    color: #5e068a;
-    
-}
-
-.sec3{
-    
-    position: relative;
-    top: 90px;
-}
-
-.sec4{
-    position: relative;
-    top: 150px;
-    
-}
-.sec5{
-    position: relative;
-    height: 430px;
-    
-}
-.sec6{
-    position: relative;
-    top: 190px;
-    left: 150px;
-}
-.view{
-    background-color:  #5e068a;
+    /* height: 5%; */
+    color:rgb(78, 119, 202) ;
 }
 h5{
-    color: #5e068a; 
+    color: white;
+}
+.first{
+    position: relative;
+    top:100px ;
+}
+.sec2{
+    position: relative;
+    left:35px;
+}
+h4{
+   color:rgb(78, 119, 202) ;
+   position: relative;
+   left: 30px;
+}
+.secnd{
+    background-color: white;
 }
